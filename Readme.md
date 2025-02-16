@@ -15,7 +15,7 @@ docker run --name enpal-coding-challenge-db -p 5432:5432 -d enpal-coding-challen
 
 ### 2. Build the Application
 
-Navigate to the root of the solution (`AppointmentBookingApi`) and run:
+Navigate to the root of the solution (`AppointmentBooking`) and run:
 
 ```sh
 dotnet build
@@ -37,7 +37,7 @@ npm run test
 
 ### 4. Run Unit Tests
 
-Navigate to `AppointmentBookingApi` and execute the following command to run unit tests:
+Navigate to `AppointmentBooking` and execute the following command to run unit tests:
 
 ```sh
 dotnet test
