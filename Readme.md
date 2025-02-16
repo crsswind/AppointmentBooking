@@ -1,4 +1,4 @@
-# Enpal Coding Challenge
+# Coding Challenge
 
 ## Getting Started
 
